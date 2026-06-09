@@ -41,16 +41,67 @@ I'm a **L3 Computer Science student** at the Université de Strasbourg, building
 ### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Projects
+
+### 🗾 JapanicTelegram — Japan Auction Intelligence
+> *FastAPI · React · Docker · GCP Cloud Run · Telethon*
+
+[![Repo](https://img.shields.io/badge/GitHub-japanic--telegram-181717?style=flat-square&logo=github)](https://github.com/tarikanders/japanic-telegram)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Tracks Japanese car auction prices scraped from a Telegram channel in real time. Search by model, filter by mileage, visualize price trends (scatter + line charts), and get avg/median/min-max analytics. Deployed on **Google Cloud Run** with a scheduled sync every 6 hours.
+
+---
+
+### 🧠 Ilm — Never Forget It
+> *React · Gemini API · Firebase · Knowledge Management*
+
+[![Repo](https://img.shields.io/badge/GitHub-Ilm---Never--Forget-181717?style=flat-square&logo=github)](https://github.com/tarikanders/Ilm---Never-Forget)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Upload any document — Gemini extracts the central idea, key concepts, memorable quotes, and practical lessons into atomic **nuggets**. A scrollable feed serves your knowledge back to you; an interactive concept map shows relationships across your entire library. Firebase sync keeps everything accessible everywhere.
+
+---
+
+### 📖 Tadabbur — Learn Quranic Arabic
+> *React · TypeScript · SRS · Gemini API · Firebase*
+
+[![Repo](https://img.shields.io/badge/GitHub-Tadabbur---Learn--Easily--Arabic-181717?style=flat-square&logo=github)](https://github.com/tarikanders/Tadabbur---Learn-Easily-Arabic)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Full Arabic learning platform built around Quranic verses. Grammar lessons (nominal, verbal, gender, number, possessive, adjective), 5 interactive exercise types (verb analyzer, root finder, case identifier, classify, highlight), spaced repetition vocabulary, and on-demand AI tips from Gemini. Progress tracked with statistics and SRS scheduling.
+
+---
+
+### 🎯 Culture-Learn — AI Content Feed
+> *React · TypeScript · Gemini API · Epsilon-greedy ranking*
+
+[![Repo](https://img.shields.io/badge/GitHub-Culture--Learn-181717?style=flat-square&logo=github)](https://github.com/tarikanders/Culture-Learn)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+TikTok-style cultural content feed with AI-powered personalization. The ranking engine uses an **epsilon-greedy algorithm** — liked categories win most of the time, but unknown topics occasionally surface to avoid filter bubbles. Your taste profile evolves with every interaction via category/tag affinity scoring with temporal decay.
+
+---
 
 ### 🏰 Conqueror — Multiplayer Carcassonne
 > *Academic project · Team of 9 · Project Lead*
@@ -73,17 +124,6 @@ A faithful multiplayer adaptation of the board game **Carcassonne**, built in Ja
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 An interactive quiz application built with React and TypeScript. Designed for **introductory computing workshops for children** — fast, accessible, and fun to use.
-
----
-
-### 📖 Quran Learn — Arabic Language Learning App
-> *React · Language learning*
-
-[![Repo](https://img.shields.io/badge/GitHub-Quran--Learn-181717?style=flat-square&logo=github)](https://github.com/tarikanders/Quran-Learn)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-A React-based application for learning Arabic through structured exercises, built to make language acquisition intuitive and progressive.
 
 ---
 
