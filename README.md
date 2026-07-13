@@ -12,10 +12,10 @@
 
 ## About Me
 
-I'm finishing a **Licence 3 in Mathematics & Computer Science** (Data/AI track) at the Université de Strasbourg, starting a **Master's in Data BI & AI** there in September 2026. I build things on the web since I was a kid, and bridge technical rigor (coursework, shipped products) with creative work (music, design, entrepreneurship).
+I'm finishing a **Licence 3 in Mathematics & Computer Science** (Data/AI track) at the Université de Strasbourg, starting a **Master's in Data BI & AI at EPITECH** (Strasbourg) in September 2026. I build things on the web since I was a kid, and bridge technical rigor (coursework, shipped products) with creative work (music, design, entrepreneurship).
 
 - 🔭 **Looking for an alternance** — Data BI / IA / Dev, rhythm 6 weeks company / 2 weeks school, available September 2026
-- 🎓 **L3 Math & Computer Science → Master Data BI & IA** — Université de Strasbourg
+- 🎓 **L3 Math & Computer Science** (Université de Strasbourg) **→ Master Data BI & IA** (EPITECH, Strasbourg)
 - 💻 **12 years** of self-taught web development
 - 🧠 **Data & AI projects** — ETL pipelines, RAG, semantic embeddings, LLM-powered apps
 - 🌍 **Trilingual** — French (native) · Turkish (bilingual) · English (C1)
