@@ -1,23 +1,25 @@
 <h1 align="center">Hi, I'm Mustafa 👋</h1>
 
 <p align="center">
-  <em>Computer Science student · Self-taught developer · Independent artist</em>
+  <em>Data BI & AI student · Self-taught developer · Independent artist</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=12+years+of+self-taught+web+dev;Full-stack+%7C+React+%7C+Python+%7C+Java;Music+producer+with+14M%2B+streams;Teaching+kids+to+code+%26+build+robots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=12+years+of+self-taught+web+dev;Data+BI+%26+IA+%7C+React+%7C+Python+%7C+FastAPI;Music+producer+with+15M%2B+streams;Open+to+alternance+%E2%80%94+Sept+2026" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a **L3 Computer Science student** at the Université de Strasbourg, building things on the web since I was a kid. I bridge the gap between technical rigor (coursework, open-source) and creative work (music, design, entrepreneurship).
+I'm finishing a **Licence 3 in Mathematics & Computer Science** (Data/AI track) at the Université de Strasbourg, starting a **Master's in Data BI & AI** there in September 2026. I build things on the web since I was a kid, and bridge technical rigor (coursework, shipped products) with creative work (music, design, entrepreneurship).
 
-- 🎓 **B.Sc. Computer Science** — Université de Strasbourg (L3)
+- 🔭 **Looking for an alternance** — Data BI / IA / Dev, rhythm 6 weeks company / 2 weeks school, available September 2026
+- 🎓 **L3 Math & Computer Science → Master Data BI & IA** — Université de Strasbourg
 - 💻 **12 years** of self-taught web development
+- 🧠 **Data & AI projects** — ETL pipelines, RAG, semantic embeddings, LLM-powered apps
 - 🌍 **Trilingual** — French (native) · Turkish (bilingual) · English (C1)
-- 🎵 **Independent artist** — 14M+ streams · 100M+ impressions across platforms
+- 🎵 **Independent artist** — 15M+ streams · 100M+ impressions across platforms
 - 🛒 **E-commerce** — 500+ orders managed independently
 - 🤖 **Volunteer educator** — Python & Arduino robotics workshops for kids
 
@@ -33,6 +35,7 @@ I'm a **L3 Computer Science student** at the Université de Strasbourg, building
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%2FPL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
@@ -41,6 +44,7 @@ I'm a **L3 Computer Science student** at the Université de Strasbourg, building
 ### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -54,8 +58,20 @@ I'm a **L3 Computer Science student** at the Université de Strasbourg, building
 
 ## Featured Projects
 
+### 🚗 AKS Motors — JDM Import & Homologation
+> *Next.js 15 · React 19 · Tailwind · Framer Motion*
+
+[![Repo](https://img.shields.io/badge/GitHub-AKS--MOTORS-181717?style=flat-square&logo=github)](https://github.com/tarikanders/AKS-MOTORS)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Client-facing site for a JDM car import business — direct sourcing from Japanese auctions through logistics, customs clearance, and French homologation, delivered end to end. Immersive scroll-driven storytelling (pinned video sequences, animated reveals), SEO-tuned (rich snippets, OG metadata), fully bilingual-ready.
+
+---
+
 ### 🗾 JapanicTelegram — Japan Auction Intelligence
-> *FastAPI · React · Docker · GCP Cloud Run · Telethon*
+> *FastAPI · SQLAlchemy · React · Docker · GCP Cloud Run*
 
 [![Repo](https://img.shields.io/badge/GitHub-japanic--telegram-181717?style=flat-square&logo=github)](https://github.com/tarikanders/japanic-telegram)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -63,31 +79,43 @@ I'm a **L3 Computer Science student** at the Université de Strasbourg, building
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Tracks Japanese car auction prices scraped from a Telegram channel in real time. Search by model, filter by mileage, visualize price trends (scatter + line charts), and get avg/median/min-max analytics. Deployed on **Google Cloud Run** with a scheduled sync every 6 hours.
+ETL pipeline for Japanese car auctions, scraped from a Telegram channel in real time: multi-source normalization and entity matching across **26,500+ auction records** (Hungarian algorithm + fuzzy matching + OCR via EasyOCR/pdf2image), consolidated into a SQL store via record linkage. Analytics dashboard (KPIs, price/volume/market trends) built with React/Recharts, deployed on **GCP Cloud Run**.
 
 ---
 
 ### 🧠 Ilm — Never Forget It
-> *React · Gemini API · Firebase · Knowledge Management*
+> *React · TypeScript · Claude API · Embeddings · RAG*
 
 [![Repo](https://img.shields.io/badge/GitHub-Ilm---Never--Forget-181717?style=flat-square&logo=github)](https://github.com/tarikanders/Ilm---Never-Forget)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Upload any document — Gemini extracts the central idea, key concepts, memorable quotes, and practical lessons into atomic **nuggets**. A scrollable feed serves your knowledge back to you; an interactive concept map shows relationships across your entire library. Firebase sync keeps everything accessible everywhere.
+Upload any PDF/EPUB — an LLM extracts the central idea, key concepts, memorable quotes, and practical lessons into atomic **nuggets**, indexed via semantic embeddings (transformers.js, multilingual E5) into a concept graph. A recommendation feed (cosine similarity + spaced repetition) resurfaces what matters, plus a RAG chat over your own imported documents. Firebase sync keeps everything accessible everywhere.
 
 ---
 
 ### 📖 Tadabbur — Learn Quranic Arabic
-> *React · TypeScript · SRS · Gemini API · Firebase*
+> *React · TypeScript · Claude API · Firebase · PostgreSQL · Playwright*
 
 [![Repo](https://img.shields.io/badge/GitHub-Tadabbur---Learn--Easily--Arabic-181717?style=flat-square&logo=github)](https://github.com/tarikanders/Tadabbur---Learn-Easily-Arabic)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Full Arabic learning platform built around Quranic verses. Grammar lessons (nominal, verbal, gender, number, possessive, adjective), 5 interactive exercise types (verb analyzer, root finder, case identifier, classify, highlight), spaced repetition vocabulary, and on-demand AI tips from Gemini. Progress tracked with statistics and SRS scheduling.
+Full Arabic learning platform built around Quranic verses. Grammar lessons (nominal, verbal, gender, number, possessive, adjective), 5 interactive exercise types (verb analyzer, root finder, case identifier, classify, highlight), LLM-generated lessons and exercises, and a vocabulary dataset built via a scrape → enrich → dedupe pipeline. Spaced repetition (SRS) scheduling, tested end to end with Playwright.
+
+---
+
+### 🌙 Maison Al Qamar — Artisanal Perfumery E-commerce
+> *React · Vite · TypeScript · Stripe · Tailwind*
+
+[![Repo](https://img.shields.io/badge/GitHub-MaisonAlQamar-181717?style=flat-square&logo=github)](https://github.com/tarikanders/MaisonAlQamar)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+E-commerce storefront for an independent perfumery brand — hand-assembled fragrances, limited editions. Stripe checkout, GSAP-driven scroll animations, transactional email via Resend, SEO/OG-optimized product pages.
 
 ---
 
@@ -104,13 +132,13 @@ TikTok-style cultural content feed with AI-powered personalization. The ranking 
 ---
 
 ### 🏰 Conqueror — Multiplayer Carcassonne
-> *Academic project · Team of 9 · Project Lead*
+> *Academic project · Team of 10 · Project Lead*
 
-A faithful multiplayer adaptation of the board game **Carcassonne**, built in Java with a custom game engine. I led the team of 9 developers: architecture decisions, task coordination, code reviews, and delivery.
+A faithful multiplayer adaptation of the board game **Carcassonne**. I led a team of 10 developers over 15 weeks, shipping 3 client releases: distributed client-server architecture, real-time sync, JWT auth, OpenStack deployment, GitLab CI/CD.
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Lead-9-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/GDScript%20(Godot)-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Lead-10-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiplayer-Game-green?style=flat-square" />
 </p>
 
@@ -133,7 +161,7 @@ An interactive quiz application built with React and TypeScript. Designed for **
 [![Repo](https://img.shields.io/badge/GitHub-IHM__Core__Corporate__ticket-181717?style=flat-square&logo=github)](https://github.com/tarikanders/IHM_Core_Corporate_ticket)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-A music distribution management interface — bridging my technical skills and my background as an independent artist with 14M+ streams.
+A music distribution management interface — bridging my technical skills and my background as an independent artist with 15M+ streams.
 
 ---
 
@@ -175,7 +203,7 @@ My personal development environment configuration — shell, aliases, and toolin
 
 | | |
 |---|---|
-| 🎵 Music | Independent artist · 14M+ streams · 100M+ impressions |
+| 🎵 Music | Independent artist · 15M+ streams · 100M+ impressions |
 | 🤖 Teaching | Volunteer Python & Arduino robotics workshops for kids |
 | 🛒 E-commerce | 500+ orders managed · end-to-end operations |
 | 🌍 Languages | French · Turkish · English (C1) |
