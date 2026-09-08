@@ -58,18 +58,6 @@ I'm finishing a **Licence 3 in Mathematics & Computer Science** (Data/AI track) 
 
 ## Featured Projects
 
-### 🚗 AKS Motors — JDM Import & Homologation
-> *Next.js 15 · React 19 · Tailwind · Framer Motion*
-
-[![Repo](https://img.shields.io/badge/GitHub-AKS--MOTORS-181717?style=flat-square&logo=github)](https://github.com/tarikanders/AKS-MOTORS)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-Client-facing site for a JDM car import business — direct sourcing from Japanese auctions through logistics, customs clearance, and French homologation, delivered end to end. Immersive scroll-driven storytelling (pinned video sequences, animated reveals), SEO-tuned (rich snippets, OG metadata), fully bilingual-ready.
-
----
-
 ### 🗾 JapanicTelegram — Japan Auction Intelligence
 > *FastAPI · SQLAlchemy · React · Docker · GCP Cloud Run*
 
@@ -107,18 +95,6 @@ Full Arabic learning platform built around Quranic verses. Grammar lessons (nomi
 
 ---
 
-### 🌙 Maison Al Qamar — Artisanal Perfumery E-commerce
-> *React · Vite · TypeScript · Stripe · Tailwind*
-
-[![Repo](https://img.shields.io/badge/GitHub-MaisonAlQamar-181717?style=flat-square&logo=github)](https://github.com/tarikanders/MaisonAlQamar)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-E-commerce storefront for an independent perfumery brand — hand-assembled fragrances, limited editions. Stripe checkout, GSAP-driven scroll animations, transactional email via Resend, SEO/OG-optimized product pages.
-
----
-
 ### 🎯 Culture-Learn — AI Content Feed
 > *React · TypeScript · Gemini API · Epsilon-greedy ranking*
 
@@ -128,6 +104,18 @@ E-commerce storefront for an independent perfumery brand — hand-assembled frag
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 TikTok-style cultural content feed with AI-powered personalization. The ranking engine uses an **epsilon-greedy algorithm** — liked categories win most of the time, but unknown topics occasionally surface to avoid filter bubbles. Your taste profile evolves with every interaction via category/tag affinity scoring with temporal decay.
+
+---
+
+### 🌙 Maison Al Qamar — Artisanal Perfumery E-commerce
+> *React · Vite · TypeScript · Stripe · Tailwind*
+
+[![Repo](https://img.shields.io/badge/GitHub-MaisonAlQamar-181717?style=flat-square&logo=github)](https://github.com/tarikanders/MaisonAlQamar)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+E-commerce storefront for an independent perfumery brand — hand-assembled fragrances, limited editions. Stripe checkout, GSAP-driven scroll animations, transactional email via Resend, SEO/OG-optimized product pages.
 
 ---
 
